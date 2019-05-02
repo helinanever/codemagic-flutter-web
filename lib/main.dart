@@ -32,7 +32,7 @@ class _SpinningSquareState extends State<SpinningSquare>
         child: new Container(
           width: 200.0,
           height: 200.0,
-          color: const Color(0xFF00FF00),
+          color: const Color(0xFF9d44da),
         ));
   }
 
