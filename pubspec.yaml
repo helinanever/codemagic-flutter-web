@@ -13,9 +13,9 @@ dev_dependencies:
 dependency_overrides:
   flutter_web:
     git:
-      url: ssh://git@github.com/flutter/flutter_web
+      url: git@github.com/flutter/flutter_web
       path: packages/flutter_web
   flutter_web_ui:
     git:
-      url: ssh://git@github.com/flutter/flutter_web
+      url: git@github.com/flutter/flutter_web
       path: packages/flutter_web_ui
